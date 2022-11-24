@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IT Technician<br>🌱 I’m currently learning <strong>React.js</strong><br>💬 My portfolio <a href=https://allyson-sousa.github.io/>Portfólio</a><br>⚡ My projects are in my <a href=//github.com/allyson-sousa?tabrepositories/>repositories</a> and some in progress
+🔭 I’m currently working on IT Technician<br>🌱 I’m currently learning <strong>React.js</strong><br>💬 My portfolio <a href=https://allyson-sousa.github.io/>Portfólio</a><br>⚡ My projects are in my [repositories](https://github.com/allyson-sousa?tab=repositories) and some in progress
 
 
 ## 🌐 Socials:
