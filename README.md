@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Intern in Developer Java<br>🌱 I’m constant learning<br>💬 My portfolio <a href=https://allyson-sousa.github.io/>Portfólio</a><br>⚡ My projects are in my [repositories](https://github.com/allyson-sousa?tab=repositories) and some in progress
+🔭 I’m currently working on in Developer Java<br>🌱 I’m constant learning<br>💬 My portfolio <a href=https://allyson-sousa.github.io/>Portfólio</a><br>⚡ My projects are in my [repositories](https://github.com/allyson-sousa?tab=repositories) and some in progress
 
 
 ## 🌐 Socials:
